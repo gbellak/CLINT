@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLINT": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Greet\" \"Hej du glade!\" \"Köp en spade\""
+    }
+  }
+}
